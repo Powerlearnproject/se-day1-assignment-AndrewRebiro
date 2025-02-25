@@ -55,10 +55,10 @@ iv) Acceptance Testing- Performed by end-users to confirm whether the software m
 
 
 QN. Define prompt engineering and discuss its importance in interacting with AI models.
-Prompt Engineering is the process of writing instructions that direct AI models to produce specific responses.
+ANS. Prompt Engineering is the process of writing instructions that direct AI models to produce specific responses.
 It is important as it allows users to precisely guide the AI towards generating the desire response by carefully crafting prompts. 
 
 
 QN. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-An example of a vague prompt is "Create an image of a person". This prompt is not specific hence vague. By inputting a prompt such as "Create an image if a middle-aged man with a trouser, brown hair, wearing a white shirt sitting on a rock" 
+ANS. An example of a vague prompt is "Create an image of a person". This prompt is not specific hence vague. By inputting a prompt such as "Create an image if a middle-aged man with a trouser, brown hair, wearing a white shirt sitting on a rock" 
 The vague prompt provide minimal information and leaves too much up to interpretation. This could result to a wide variety of outcomes that might not align with the users expectations. The improve prompt provides the AI with more informaton thus it gives back a more accurate and targeted result.
